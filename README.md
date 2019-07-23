@@ -7,6 +7,8 @@ See below for links to the live versions of each example:
 * [Basic fetch example](https://mdn.github.io/fetch-examples/basic-fetch/)
 * [Fetch array buffer example](https://mdn.github.io/fetch-examples/fetch-array-buffer/)
 * [Fetch JSON example](https://mdn.github.io/fetch-examples/fetch-json/)
+* [Fetch JSON promise example](https://github.com/ocean010101/fetch-examples/fetch-json-promise/)
+* [Fetch JSON async example](https://github.com/ocean010101/fetch-examples/fetch-json-async/)
 * [Basic Fetch example with Request object](https://mdn.github.io/fetch-examples/fetch-request/)
 * [Basic Fetch example with Request object and Init object](https://mdn.github.io/fetch-examples/fetch-request-with-init/)
 * [Basic Fetch example with returned Response properties](https://mdn.github.io/fetch-examples/fetch-response/)
